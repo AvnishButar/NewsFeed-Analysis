@@ -34,7 +34,7 @@ The data used in this project comes from:
 
 * Social media analytics exports (e.g., Facebook Insights, Twitter Analytics)
 * Stored in Excel or CSV format and imported into Tableau
-* Columns may include: `Post Date`, `Page Name`, `Post Type`, `Reactions`, `Shares`, `Comments`, `Impressions`, etc.
+* Columns include: `Post Date`, `Page SubType`, `Number of Likes`, `Number of Comments`, `Post Types`, `Number of Posts`, etc.
 
 ---
 
